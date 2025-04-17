@@ -14,9 +14,9 @@ body{
 }
 
 .logo-login{
-    position: absolute;
-    top: 42px;
-    left: 116px;
+    display: block;
+    margin: 0 auto;
+    margin-top: -165px;
     width: 181px;
     height: 272px;
     flex-shrink: 0;
