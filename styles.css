@@ -6,6 +6,7 @@ body {
   position: absolute;
   top: 208px;
   right: 40px;
+  
   width: 331px;
   height: 501px;
   flex-shrink: 0;
@@ -17,6 +18,7 @@ body {
   display: block;
   margin: 0 auto;
   margin-top: -165px;
+
   width: 181px;
   height: 272px;
   flex-shrink: 0;
@@ -27,6 +29,7 @@ body {
   display: block;
   margin: 0 auto;
   margin-top: -50px;
+
   width: 98;
   height: 40;
   font-family: "Inter";
@@ -42,6 +45,7 @@ body {
   display: block;
   margin: 0 auto;
   margin-top: 58px;
+
   width: 280px;
   height: 41px;
   flex-shrink: 0;
@@ -50,6 +54,7 @@ body {
   background-color: transparent;
   padding-left: 40px;
   box-sizing: border-box;
+
   color: #f2b832;
   font-family: "Inter";
   font-size: 16px;
@@ -73,6 +78,7 @@ body {
   position: absolute;
   top: 113px;
   left: 28px;
+
   color: #f2b832;
   text-align: center;
   font-family: "Inter";
@@ -95,6 +101,7 @@ body {
   position: absolute;
   top: 208px;
   left: 28px;
+
   color: #f2b832;
   text-align: center;
   font-family: "Inter";
@@ -108,6 +115,7 @@ body {
   display: block;
   margin: 0 auto;
   margin-top: 54px;
+
   width: 280px;
   height: 41px;
   flex-shrink: 0;
@@ -148,6 +156,7 @@ body {
   display: block;
   margin: 0 auto;
   margin-top: 30px;
+
   width: 280px;
   height: 43px;
   flex-shrink: 0;
@@ -175,14 +184,43 @@ body {
 #esqueceu-senha {
   display: block;
   margin: 0 auto;
-  margin-top: 28px;
+  margin-top: 26px;
 
   color: #f2b832;
   text-align: center;
-  font-family: 'Inter';
+  font-family: "Inter";
   font-size: 15px;
   font-style: normal;
   font-weight: 400;
+  line-height: normal;
+  text-decoration: none;
+}
+
+.nao-tem-uma-conta {
+  display: block;
+  margin: 0 auto;
+  margin-top: 20px;
+
+  color: #f2b832;
+  text-align: center;
+  font-family: "Inter";
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+#criar-conta {
+  display: block;
+  margin: 0 auto;
+  margin-top: 3px;
+
+  color: #f2b832;
+  text-align: center;
+  font-family: "Inter";
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 600;
   line-height: normal;
   text-decoration: none;
 }
