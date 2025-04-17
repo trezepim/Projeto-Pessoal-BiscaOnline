@@ -143,3 +143,24 @@ body {
   height: 16px;
   flex-shrink: 0;
 }
+
+#entrar-button {
+  display: block;
+  margin: 0 auto;
+  margin-top: 30px;
+  width: 280px;
+  height: 43px;
+  flex-shrink: 0;
+  border-radius: 6px;
+  background: #653517;
+  border: none;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  transition: box-shadow 0.1s ease;
+}
+
+
+
+#entrar-button:active {
+  box-shadow: 20 2px 3px rgba(0, 0, 0, 0.25);
+  background-color: #5a2e15;
+}
