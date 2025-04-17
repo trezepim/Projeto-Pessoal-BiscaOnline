@@ -1,92 +1,92 @@
-body{
-    background-color: #653517;
+body {
+  background-color: #653517;
 }
 
-.bg-box-login{
-    position: absolute;
-    top: 208px;
-    right: 40px;
-    width: 331px;
-    height: 501px;
-    flex-shrink: 0;
-    border-radius: 15px;
-    background: #43220D;
+.bg-box-login {
+  position: absolute;
+  top: 208px;
+  right: 40px;
+  width: 331px;
+  height: 501px;
+  flex-shrink: 0;
+  border-radius: 15px;
+  background: #43220d;
 }
 
-.logo-login{
-    display: block;
-    margin: 0 auto;
-    margin-top: -165px;
-    width: 181px;
-    height: 272px;
-    flex-shrink: 0;
-    aspect-ratio: 181/272;
+.logo-login {
+  display: block;
+  margin: 0 auto;
+  margin-top: -165px;
+  width: 181px;
+  height: 272px;
+  flex-shrink: 0;
+  aspect-ratio: 181/272;
 }
 
-.entrar-text-login{
-    position: absolute;
-    width: 98;
-    height: 40;
-    top: 235px;
-    left: 157px;    
-    font-family: 'Inter';
-    font-weight: 600;
-    font-style: normal;
-    color: #F2B832;
-    text-align: center;
-    font-size: 33px;
-    line-height: normal;
+.entrar-text-login {
+  display: block;
+  margin: 0 auto;
+  margin-top: -50px;
+  width: 98;
+  height: 40;
+  font-family: "Inter";
+  font-weight: 600;
+  font-style: normal;
+  color: #f2b832;
+  text-align: center;
+  font-size: 33px;
+  line-height: normal;
 }
 
-.box-email-login{
-    position: absolute;
-    top: 362px;
-    left: 66px;
-    width: 280px;
-    height: 41px;
-    flex-shrink: 0;
-    border-radius: 5px;
-    border: 1px solid #653517;
-    background-color: transparent;
-    padding-left: 40px;
-    box-sizing: border-box;
-    color: #F2B832;
-    font-family: 'Inter';
-    font-size: 16px;
+.box-email-login {
+  display: block;
+  margin: 0 auto;
+  margin-top: 58px;
+  width: 280px;
+  height: 41px;
+  flex-shrink: 0;
+  border-radius: 5px;
+  border: 1px solid #653517;
+  background-color: transparent;
+  padding-left: 40px;
+  box-sizing: border-box;
+  color: #f2b832;
+  font-family: "Inter";
+  font-size: 16px;
 }
 
-.box-email-login::placeholder{
-    color: rgba(242, 184, 50, 0.30);
-    font-family: 'Inter';
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
+.box-email-login::placeholder {
+  color: rgba(242, 184, 50, 0.3);
+  font-family: "Inter";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
 
-.box-email-login:focus{
-    outline: none;
-    box-shadow: none;
+.box-email-login:focus {
+  outline: none;
+  box-shadow: none;
 }
 
-.text-box-email{
-    position: absolute;
-    top: 325px;
-    left: 68px;
-    color: #F2B832;
-    text-align: center;
-    font-family: 'Inter';
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
+.text-box-email {
+  position: absolute;
+  top: 115px;
+  left: 30px;
+  color: #f2b832;
+  text-align: center;
+  font-family: "Inter";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }
 
-.email-icon{
-    position: absolute;
-    top: 377px;
-    left: 79px;
-    width: 16px;
-    height: 12px;
-    flex-shrink: 0;
+.email-icon {
+  position: absolute;
+  top: 170px;
+  left: 40px;
+  width: 16px;
+  height: 12px;
+  flex-shrink: 0;
 }
