@@ -6,7 +6,7 @@ body {
   position: absolute;
   top: 208px;
   right: 40px;
-  
+
   width: 331px;
   height: 501px;
   flex-shrink: 0;
@@ -155,7 +155,7 @@ body {
 #entrar-button {
   display: block;
   margin: 0 auto;
-  margin-top: 30px;
+  margin-top: 25px;
 
   width: 280px;
   height: 43px;
