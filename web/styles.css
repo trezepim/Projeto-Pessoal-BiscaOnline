@@ -50,7 +50,23 @@ body{
     background-color: transparent;
     padding-left: 40px;
     box-sizing: border-box;
-    color: (242, 184, 50, 0.30);
+    color: #F2B832;
+    font-family: 'Inter';
+    font-size: 16px;
+}
+
+.box-email-login::placeholder{
+    color: rgba(242, 184, 50, 0.30);
+    font-family: 'Inter';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.box-email-login:focus{
+    outline: none;
+    box-shadow: none;
 }
 
 .text-box-email{
