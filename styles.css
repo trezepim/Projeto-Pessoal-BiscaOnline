@@ -71,7 +71,7 @@ body {
 
 .text-box-email {
   position: absolute;
-  top: 115px;
+  top: 113px;
   left: 28px;
   color: #f2b832;
   text-align: center;
@@ -107,7 +107,7 @@ body {
 .box-senha-login {
   display: block;
   margin: 0 auto;
-  margin-top: 58px;
+  margin-top: 54px;
   width: 280px;
   height: 41px;
   flex-shrink: 0;
