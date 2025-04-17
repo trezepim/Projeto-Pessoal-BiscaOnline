@@ -156,7 +156,7 @@ body {
 
   color: #f2b832;
   text-align: center;
-  font-family: 'Inter';
+  font-family: "Inter";
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -170,4 +170,19 @@ body {
 #entrar-button:active {
   box-shadow: 20 2px 3px rgba(0, 0, 0, 0.25);
   background-color: #5a2e15;
+}
+
+#esqueceu-senha {
+  display: block;
+  margin: 0 auto;
+  margin-top: 28px;
+
+  color: #f2b832;
+  text-align: center;
+  font-family: 'Inter';
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-decoration: none;
 }
