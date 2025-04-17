@@ -153,12 +153,19 @@ body {
   flex-shrink: 0;
   border-radius: 6px;
   background: #653517;
+
+  color: #f2b832;
+  text-align: center;
+  font-family: 'Inter';
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+
   border: none;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
   transition: box-shadow 0.2s ease;
 }
-
-
 
 #entrar-button:active {
   box-shadow: 20 2px 3px rgba(0, 0, 0, 0.25);
