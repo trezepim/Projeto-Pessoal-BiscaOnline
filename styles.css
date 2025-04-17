@@ -138,8 +138,8 @@ body {
 .senha-icon {
   position: absolute;
   top: 262px;
-  left: 40px;
-  width: 15px;
+  left: 41px;
+  width: 14px;
   height: 16px;
   flex-shrink: 0;
 }
@@ -155,7 +155,7 @@ body {
   background: #653517;
   border: none;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
-  transition: box-shadow 0.1s ease;
+  transition: box-shadow 0.2s ease;
 }
 
 
