@@ -226,9 +226,9 @@ body {
 }
 
 .as-espadas-bg {
-  display: block;
-  margin-top: -110px;
-  margin-left: -130px;
+  position: absolute;
+  top: 540px;
+  left: -120px;
   width: 324.438px;
   height: 473.632px;
   transform: rotate(-42.27deg);
