@@ -224,3 +224,14 @@ body {
   line-height: normal;
   text-decoration: none;
 }
+
+.as-espadas-bg {
+  display: block;
+  margin-top: -110px;
+  margin-left: -130px;
+  width: 324.438px;
+  height: 473.632px;
+  transform: rotate(-42.27deg);
+  flex-shrink: 0;
+  opacity: 0.04;
+}
