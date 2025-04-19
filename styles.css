@@ -12,8 +12,8 @@ body {
 
 .sete-copas-bg {
   position: absolute;
-  top: 35px;
-  left: 195px;
+  top: 18px;
+  left: 200px;
 
   width: 324.44px;
   height: 473.635px;
@@ -46,7 +46,7 @@ body {
 
 .bg-box-login {
   position: absolute;
-  top: 46%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 
