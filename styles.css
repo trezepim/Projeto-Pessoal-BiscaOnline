@@ -220,7 +220,7 @@ body {
   -webkit-tap-highlight-color: transparent;
   border: none;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
-  transition: box-shadow 0.3s ease;
+  transition: box-shadow 1s ease;
 
   cursor: pointer;
   overflow: hidden;
