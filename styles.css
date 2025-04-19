@@ -11,11 +11,12 @@ body {
 
 .as-espadas-bg {
   position: absolute;
-  top: 477px;
-  left: -180px;
-  width: 259.997px;
-  height: 370.361px;
-  transform: rotate(-17.227deg);
+  top: 520px;
+  left: -207px;
+
+  width: 324.438px;
+  height: 473.632px;
+  transform: rotate(-42.266deg);
   flex-shrink: 0;
   opacity: 0.04;
   pointer-events: none;
@@ -143,6 +144,7 @@ body {
   background-color: transparent;
   padding-left: 40px;
   box-sizing: border-box;
+
   color: #f2b832;
   font-family: "Inter";
   font-size: 16px;
