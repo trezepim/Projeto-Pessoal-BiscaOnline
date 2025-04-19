@@ -2,6 +2,25 @@ body {
   background-color: #653517;
 }
 
+html,
+body {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+.as-espadas-bg {
+  position: absolute;
+  top: 477px;
+  left: -180px;
+  width: 259.997px;
+  height: 370.361px;
+  transform: rotate(-17.227deg);
+  flex-shrink: 0;
+  opacity: 0.04;
+  pointer-events: none;
+}
+
 .bg-box-login {
   position: absolute;
   top: 208px;
@@ -223,16 +242,4 @@ body {
   font-weight: 600;
   line-height: normal;
   text-decoration: none;
-}
-
-.as-espadas-bg {
-  position: absolute;
-  top: 540px;
-  left: -120px;
-  width: 324.438px;
-  height: 473.632px;
-  transform: rotate(-42.27deg);
-  flex-shrink: 0;
-  opacity: 0.04;
-  pointer-events: none;
 }
