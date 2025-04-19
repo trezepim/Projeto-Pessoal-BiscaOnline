@@ -234,4 +234,5 @@ body {
   transform: rotate(-42.27deg);
   flex-shrink: 0;
   opacity: 0.04;
+  pointer-events: none;
 }
