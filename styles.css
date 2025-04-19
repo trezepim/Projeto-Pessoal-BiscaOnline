@@ -216,11 +216,11 @@ body {
   font-style: normal;
   font-weight: 550;
   line-height: normal;
-  
+
   -webkit-tap-highlight-color: transparent;
   border: none;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
-  transition: box-shadow 0.2s ease;
+  transition: box-shadow 0.3s ease;
 
   cursor: pointer;
   overflow: hidden;
