@@ -216,7 +216,8 @@ body {
   font-style: normal;
   font-weight: 550;
   line-height: normal;
-
+  
+  -webkit-tap-highlight-color: transparent;
   border: none;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
   transition: box-shadow 0.2s ease;
@@ -246,8 +247,10 @@ body {
 }
 
 #entrar-button:active {
+  outline: none;
   box-shadow: 20 2px 3px rgba(0, 0, 0, 0.25);
   background-color: #5a2e15;
+  background-color: inherit;
 }
 
 #esqueceu-senha {
