@@ -20,6 +20,9 @@ body {
   flex-shrink: 0;
   opacity: 0.04;
   pointer-events: none;
+
+  max-width: 100vw;
+  max-height: 100vh;
 }
 
 .as-espadas-bg {
