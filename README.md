@@ -1,6 +1,6 @@
 # 🃏 BiscaOnline
 
-Jogue **BiscaOnline** com os amigos, direto do navegador. A bisca raiz **na palma da sua mão**, **em qualquer lugar**.
+### Jogue **BiscaOnline** com os amigos, direto do navegador. A bisca raiz **na palma da sua mão**, **em qualquer lugar**.
 
 <!-- Tela do site -->
 
