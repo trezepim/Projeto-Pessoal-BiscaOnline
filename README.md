@@ -1,8 +1,10 @@
 # 🃏 BiscaOnline
 
-Jogue **Bisca com seus amigos online**, direto do navegador! Sem downloads,apenas uma mesa para se divertir enquanto joga o clássico jogo de baralho online.
+Jogue **BiscaOnline** com os amigos, direto do navegador. A bisca raiz **na palma da sua mão**, **em qualquer lugar**.
 
-![Tela do jogo](./images/game-preview.png)
+<!-- Tela do site -->
+
+!(./images/game-preview.png)
 
 ---
 
@@ -22,14 +24,3 @@ Jogue **Bisca com seus amigos online**, direto do navegador! Sem downloads,apena
 - 🃏 Criação de partidas privadas
 - 📱 Interface amigável para jogar com amigos
 - 🧠 Lógica completa da Bisca implementada em Python
-
----
-
-## 🛠️ Como rodar localmente
-
-Clone o repositório:
-
-```bash
-git clone https://github.com/seu-usuario/bisca-online.git
-cd bisca-online
-```
