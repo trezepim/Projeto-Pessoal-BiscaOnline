@@ -35,4 +35,6 @@ Mais do que um jogo, esse projeto é também uma forma de aprendizado e para mos
 - 👥 Cadastro e login de usuários
 - 🃏 Criação de partidas privadas
 - 📱 Interface amigável para jogar com amigos
-- 🧠 Lógica completa da Bisca implementada em Python
+- 🧠 Lógica completa da Bisca
+
+Jogue agora!
