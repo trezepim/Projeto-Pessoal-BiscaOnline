@@ -8,19 +8,13 @@
 
 -->
 
----
+------
 
 ## 🚀 Tecnologias Utilizadas
-
-## 🚀 Stack do Projeto
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados-Em%20defini%C3%A7%C3%A3o-lightgrey?style=for-the-badge)
-
-| Front-end | Back-end | Banco de Dados |
-| --------- | -------- | -------------- |
-| HTML5     | Python   | Em definição   |
 
 > ⚙️ Frameworks e libs ainda podem ser adicionados conforme o projeto evolui.
 
