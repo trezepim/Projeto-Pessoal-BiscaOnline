@@ -24,11 +24,9 @@ Mais do que um jogo, esse projeto é também uma forma de aprendizado e para mos
 
 ## 🚀 Tecnologias Utilizadas
 
-<img src="readme-imagens/HTML5.png" width="50" height="50" />
-
-![HTML5](readme-imagens/HTML5.png)
-![Python](readme-imagens/PYTHON.png)
-![MySQL](readme-imagens/MYSQL.png)
+<img src="readme-imagens/HTML5.png" width="70" height="70" />
+<img src="readme-imagens/PYTHON.png" width="70" height="70" />
+<img src="readme-imagens/MYSQL.png" width="70" height="70" />
 
 > ⚙️ Frameworks e libs ainda podem ser adicionados conforme o projeto evolui.
 
