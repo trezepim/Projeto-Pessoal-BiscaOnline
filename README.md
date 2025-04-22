@@ -37,4 +37,6 @@ Mais do que um jogo, esse projeto é também uma forma de aprendizado e para mos
 - 📱 Interface amigável para jogar com amigos
 - 🧠 Lógica completa da Bisca
 
+---
+
 Jogue agora!
