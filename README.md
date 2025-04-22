@@ -24,9 +24,9 @@ Mais do que um jogo, esse projeto é também uma forma de aprendizado e para mos
 
 ## 🚀 Tecnologias Utilizadas
 
-![HTML5]()
-![Python]()
-![MySQL]()
+![HTML5](readme-imagens/HTML5.png)
+![Python](readme-imagens/PYTHON.png)
+![MySQL](readme-imagens/MYSQL.png)
 
 > ⚙️ Frameworks e libs ainda podem ser adicionados conforme o projeto evolui.
 
