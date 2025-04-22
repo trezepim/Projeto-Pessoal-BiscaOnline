@@ -7,7 +7,9 @@ A bisca raiz na palma da sua mão, em qualquer lugar.
 ## 🎯 Sobre o Projeto
 
 Este projeto foi criado como uma iniciativa pessoal para ganhar experiência prática na área de desenvolvimento.
+
 Sou estudante de Sistemas de Informação e, como ainda não tenho experiência profissional, decidi desenvolver algo que pudesse mostrar minhas habilidades de forma real.
+
 A ideia surgiu da vontade de ter um lugar simples e funcional para jogar Bisca com os amigos — já que não encontrei nenhuma plataforma que realmente entregasse uma boa experiência. Chamei um amigo para entrar nessa comigo, e juntos estamos construindo o **BiscaOnline**, um site acessível, leve e feito do zero por nós.
 
 Mais do que um jogo, esse projeto é também uma forma de aprendizado e para mostrar minha dedicação com o meu trabalho.
