@@ -117,7 +117,7 @@ body {
   box-shadow: none;
 }
 
-.text-box-email {
+.text-box-usuario {
   position: absolute;
   top: 113px;
   left: 28px;
@@ -131,12 +131,12 @@ body {
   line-height: normal;
 }
 
-.email-icon {
+.usuario-icon {
   position: absolute;
-  top: 170px;
+  top: 167px;
   left: 40px;
   width: 16px;
-  height: 12px;
+  height: 16px;
   flex-shrink: 0;
 }
 
