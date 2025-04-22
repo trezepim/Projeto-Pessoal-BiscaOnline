@@ -368,3 +368,74 @@ body {
   height: 16px;
   flex-shrink: 0;
 }
+
+#criar-conta-button {
+  display: block;
+  position: relative;
+  margin: 0 auto;
+  margin-top: 25px;
+
+  width: 280px;
+  height: 43px;
+  flex-shrink: 0;
+  border-radius: 6px;
+  background: #653517;
+
+  color: #f2b832;
+  text-align: center;
+  font-family: "Inter";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 550;
+  line-height: normal;
+
+  -webkit-tap-highlight-color: transparent;
+  border: none;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  transition: box-shadow 1s ease;
+
+  cursor: pointer;
+  overflow: hidden;
+  z-index: 1;
+}
+
+#criar-conta-button::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+
+  background: url(login-cadastro-imagens/naipes-entrar-button.png);
+
+  z-index: -1;
+  pointer-events: none;
+
+  width: 280px;
+  height: 44px;
+
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  flex-shrink: 0;
+}
+
+#criar-conta-button:active {
+  outline: none;
+  box-shadow: 20 2px 3px rgba(0, 0, 0, 0.25);
+  background-color: #5a2e15;
+  background-color: inherit;
+}
+
+#entrar {
+  display: block;
+  margin: 0 auto;
+  margin-top: 3px;
+
+  color: #f2b832;
+  text-align: center;
+  font-family: "Inter";
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  text-decoration: none;
+}
