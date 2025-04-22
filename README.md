@@ -25,8 +25,8 @@ Mais do que um jogo, esse projeto é também uma forma de aprendizado e para mos
 ## 🚀 Tecnologias Utilizadas
 
 ![Python](https://img.icons8.com/color/48/000000/python.png)
-![HTML5](https://img.icons8.com/ios/50/000000/html-5.png)
-![MySQL](https://img.icons8.com/ios/50/000000/mysql.png)
+![HTML5](https://img.icons8.com/ios-filled/50/000000/html-5.png)
+![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql.png)
 
 > ⚙️ Frameworks e libs ainda podem ser adicionados conforme o projeto evolui.
 
