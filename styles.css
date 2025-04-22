@@ -84,7 +84,21 @@ body {
   line-height: normal;
 }
 
-.box-usuario-login {
+.text-box-usuario-login {
+  position: absolute;
+  top: 113px;
+  left: 28px;
+
+  color: #f2b832;
+  text-align: center;
+  font-family: "Inter";
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+#box-usuario-login {
   display: block;
   margin: 0 auto;
   margin-top: 58px;
@@ -103,7 +117,7 @@ body {
   font-size: 16px;
 }
 
-.box-usuario-login::placeholder {
+#box-usuario-login::placeholder {
   color: rgba(242, 184, 50, 0.3);
   font-family: "Inter";
   font-size: 16px;
@@ -112,23 +126,9 @@ body {
   line-height: normal;
 }
 
-.box-usuario-login:focus {
+#box-usuario-login:focus {
   outline: none;
   box-shadow: none;
-}
-
-.text-box-usuario {
-  position: absolute;
-  top: 113px;
-  left: 28px;
-
-  color: #f2b832;
-  text-align: center;
-  font-family: "Inter";
-  font-size: 17px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: normal;
 }
 
 .usuario-icon {
@@ -140,7 +140,7 @@ body {
   flex-shrink: 0;
 }
 
-.text-box-senha {
+.text-box-senha-login {
   position: absolute;
   top: 208px;
   left: 28px;
@@ -154,7 +154,7 @@ body {
   line-height: normal;
 }
 
-.box-senha-login {
+#box-senha-login {
   display: block;
   margin: 0 auto;
   margin-top: 54px;
@@ -173,7 +173,7 @@ body {
   font-size: 16px;
 }
 
-.box-senha-login::placeholder {
+#box-senha-login::placeholder {
   color: rgba(242, 184, 50, 0.3);
   font-family: "Inter";
   font-size: 16px;
@@ -182,7 +182,7 @@ body {
   line-height: normal;
 }
 
-.box-senha-login:focus {
+#box-senha-login:focus {
   outline: none;
   box-shadow: none;
 }
@@ -306,7 +306,7 @@ body {
   transform: translate(-50%, -50%);
 
   width: 331px;
-  height: 550px;
+  height: 530px;
   flex-shrink: 0;
   border-radius: 15px;
   background: #43220d;
@@ -328,10 +328,38 @@ body {
   line-height: normal;
 }
 
-.box-senha-cadastro {
+.text-box-usuario-cadastro {
+  position: absolute;
+  top: 113px;
+  left: 28px;
+
+  color: #f2b832;
+  text-align: center;
+  font-family: "Inter";
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.text-box-email-cadastro {
+  position: absolute;
+  top: 205px;
+  left: 28px;
+
+  color: #f2b832;
+  text-align: center;
+  font-family: "Inter";
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+#box-email-cadastro {
   display: block;
   margin: 0 auto;
-  margin-top: 54px;
+  margin-top: 50px;
 
   width: 280px;
   height: 41px;
@@ -347,7 +375,7 @@ body {
   font-size: 16px;
 }
 
-.box-senha-cadastro::placeholder {
+#box-email-cadastro::placeholder {
   color: rgba(242, 184, 50, 0.3);
   font-family: "Inter";
   font-size: 16px;
@@ -356,18 +384,75 @@ body {
   line-height: normal;
 }
 
-.box-senha-cadastro:focus {
+#box-email-cadastro:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.email-icon-cadastro {
+  position: absolute;
+  top: 260px;
+  left: 40px;
+
+  width: 17px;
+  height: 14px;
+  flex-shrink: 0;
+}
+
+.text-box-senha-cadastro {
+  position: absolute;
+  top: 294px;
+  left: 28px;
+
+  color: #f2b832;
+  text-align: center;
+  font-family: "Inter";
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+#box-senha-cadastro {
+  display: block;
+  margin: 0 auto;
+  margin-top: 46px;
+
+  width: 280px;
+  height: 41px;
+  flex-shrink: 0;
+  border-radius: 5px;
+  border: 1px solid #653517;
+  background-color: transparent;
+  padding-left: 40px;
+  box-sizing: border-box;
+
+  color: #f2b832;
+  font-family: "Inter";
+  font-size: 16px;
+}
+
+#box-senha-cadastro::placeholder {
+  color: rgba(242, 184, 50, 0.3);
+  font-family: "Inter";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+#box-senha-cadastro:focus {
   outline: none;
   box-shadow: none;
 }
 
 .senha-icon-cadastro {
   position: absolute;
-  top: 262px;
-  left: 41px;
+  top: 345px;
+  left: 42px;
 
   width: 14px;
-  height: 16px;
+  height: 17px;
   flex-shrink: 0;
 }
 
