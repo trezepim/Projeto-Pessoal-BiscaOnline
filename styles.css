@@ -51,7 +51,7 @@ body {
   transform: translate(-50%, -50%);
 
   width: 331px;
-  height: 501px;
+  height: 490px;
   flex-shrink: 0;
   border-radius: 15px;
   background: #43220d;
@@ -301,7 +301,7 @@ body {
 
 .bg-box-cadastro {
   position: absolute;
-  top: 48%;
+  top: 49%;
   left: 50%;
   transform: translate(-50%, -50%);
 
@@ -401,7 +401,7 @@ body {
 
 .text-box-senha-cadastro {
   position: absolute;
-  top: 294px;
+  top: 292px;
   left: 28px;
 
   color: #f2b832;
@@ -449,7 +449,7 @@ body {
 .senha-icon-cadastro {
   position: absolute;
   top: 345px;
-  left: 42px;
+  left: 41px;
 
   width: 14px;
   height: 17px;
