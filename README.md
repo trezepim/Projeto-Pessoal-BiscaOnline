@@ -1,4 +1,4 @@
-# 🃏 BiscaOnline
+# 🃏 BiscaOnline (Em desenvolvimento)
 
 **Jogue BiscaOnline com os amigos, direto do navegador.**
 
