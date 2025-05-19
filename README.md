@@ -24,7 +24,7 @@ Mais do que um jogo, esse projeto é também uma forma de aprendizado e para mos
 
 ## 🚀 Tecnologias Utilizadas
 
-<img width="10%" src="https://skillicons.dev/icons?i=html5,py,mysql,git,figma"  />
+<img width="35%" src="https://skillicons.dev/icons?i=html5,py,mysql,git,figma"  />
 
 > ⚙️ Frameworks e libs ainda podem ser adicionados conforme o projeto evolui.
 
