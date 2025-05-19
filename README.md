@@ -24,9 +24,7 @@ Mais do que um jogo, esse projeto é também uma forma de aprendizado e para mos
 
 ## 🚀 Tecnologias Utilizadas
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="60" height="60" />&nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png" width="60" height="60" />&nbsp;&nbsp;
-<img src="https://pngimg.com/d/mysql_PNG23.png" width="60" height="60" />
+<img width="20%" src="https://skillicons.dev/icons?i=html5,py,mysql,git,figma"/>
 
 > ⚙️ Frameworks e libs ainda podem ser adicionados conforme o projeto evolui.
 
