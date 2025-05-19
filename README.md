@@ -24,11 +24,11 @@ Mais do que um jogo, esse projeto é também uma forma de aprendizado e para mos
 
 ## 🚀 Tecnologias Utilizadas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py" width="40" />
-  <img src="https://skillicons.dev/icons?i=mysql" width="40" />
-  <img src="https://skillicons.dev/icons?i=git" width="40" />
-  <img src="https://skillicons.dev/icons?i=figma" width="40" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py" width="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="50" />
+  <img src="https://skillicons.dev/icons?i=git" width="50" />
+  <img src="https://skillicons.dev/icons?i=figma" width="50" />
 </p>
 
 > ⚙️ Frameworks e libs ainda podem ser adicionados conforme o projeto evolui.
