@@ -25,7 +25,7 @@ Mais do que um jogo, esse projeto é também uma forma de aprendizado e para mos
 ## 🚀 Tecnologias Utilizadas
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="60" height="60" />&nbsp;&nbsp;
-<img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" width="60" height="60" />&nbsp;&nbsp;
+<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="60" height="60" />&nbsp;&nbsp;
 <img src="https://pngimg.com/d/mysql_PNG23.png" width="60" height="60" />
 
 > ⚙️ Frameworks e libs ainda podem ser adicionados conforme o projeto evolui.
