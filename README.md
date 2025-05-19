@@ -24,7 +24,7 @@ Mais do que um jogo, esse projeto é também uma forma de aprendizado e para mos
 
 ## 🚀 Tecnologias Utilizadas
 
-<img src="readme-imagens/HTML5.png" width="60" height="60" />&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png" width="60" height="60" />&nbsp;&nbsp;
 <img src="readme-imagens/PYTHON.png" width="60" height="60" />&nbsp;&nbsp;
 <img src="readme-imagens/MYSQL.png" width="60" height="60" />
 
