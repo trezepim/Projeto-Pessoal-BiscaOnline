@@ -31,7 +31,7 @@ Mais do que um jogo, esse projeto é também uma forma de aprendizado e para mos
   <img src="https://skillicons.dev/icons?i=figma" width="50" />
 </p>
 
-> ⚙️ Frameworks e libs ainda podem ser adicionados conforme o projeto evolui.
+> ⚙️ Tecnologias, frameworks e libs ainda podem ser adicionados conforme o projeto evolui.
 
 ## ✨ Funcionalidades
 
